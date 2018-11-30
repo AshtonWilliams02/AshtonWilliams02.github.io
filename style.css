@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(253, 0, 0);
+    background-color: rgb(0, 0, 0);
+    margin: 40px;
+    padding: 25px;
+    text-align: center;
+}
+nav ul {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(255, 60, 0);
+}
+
+nav ul li {
+    float: left; 
+}
+
+nav ul li a {
+    display: block;
+    color: white; 
+    padding: 10px;
+    background-color: rgb(255, 60, 0);
+    text-decoration: none; 
+}
+
+nav ul li a:hover {
+    background-color: rgb(255, 208, 0);
+}
+
+.ussr {
+    background-image: url("http://i.hurimg.com/i/hdn/75/0x0/59c70cc745d2a027e83a1d97.jpg");
+    background-size: 100% 
+}
+
+.help {
+    background-image: url("https://st3.depositphotos.com/1485837/17667/i/1600/depositphotos_176675296-stock-photo-people-healthcare-and-problem-concept.jpg")
+}
+
+h2 { 
+    color: rgb(255, 0, 0)
+}
